@@ -1,0 +1,20 @@
+body {
+  background-image: url(../img/background@2x.png);
+}
+.logo-title {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 25%;
+  padding-bottom: 25%;
+}
+.logo-title img {
+  width: 60%;
+  height: 30%;
+}
+.logo-title h1 {
+  font-family: 'Galindo', cursive;
+  color: white;
+  font-size: 4.6rem;
+}
