@@ -52,7 +52,7 @@
   background-color: white;
   text-align: center;
   padding: 3%;
-  font-size: 1.8rem;
+  font-size: 1.5rem;
   text-decoration: none;
   font-family: 'Noto Sans KR', sans-serif;
   font-weight: 600;
@@ -71,7 +71,7 @@
 }
 .makecalendar .calendar tr td {
   padding: 2.5%;
-  font-size: 1.7rem;
+  font-size: 1.4rem;
   font-family: 'Noto Sans KR', sans-serif;
   border-spacing: 3%;
   font-weight: 600px;
@@ -91,7 +91,7 @@
 }
 .listview .notifications h3 {
   color: #439dbb;
-  font-size: 1.7rem;
+  font-size: 1.4rem;
   width: 100%;
   text-align: left;
   font-family: 'Noto Sans KR', sans-serif;
@@ -101,7 +101,7 @@
 }
 .listview .notifications p {
   font-family: 'Noto Sans KR', sans-serif;
-  font-size: 1.7rem;
+  font-size: 1.4rem;
   padding: 3%;
   padding-bottom: 2%;
   font-weight: 600;
@@ -109,7 +109,7 @@
 }
 .listview .notifications span {
   font-family: 'Noto Sans KR', sans-serif;
-  font-size: 1.7rem;
+  font-size: 1.4rem;
   color: #555555;
   padding-left: 3%;
   font-weight: 600;
@@ -127,7 +127,7 @@
 }
 .listview .notifications .tomorrow {
   color: #8d8d8d;
-  font-size: 1.7rem;
+  font-size: 1.4rem;
   width: 100%;
   text-align: left;
   font-family: 'Noto Sans KR', sans-serif;
@@ -143,6 +143,7 @@
 }
 .listview .notifications .thirdalert {
   border-left: 10px solid #715696;
+  border-bottom: 1px solid #aaaaaa;
 }
 .listview .notifications .fourthalert {
   border-left: 10px solid #54c242;
@@ -164,7 +165,7 @@
   align-items: center;
 }
 .fix-footer .bottom-bar .to-do a {
-  font-size: 1.8rem;
+  font-size: 1.5rem;
   text-decoration: none;
   color: black;
   font-family: 'Noto Sans KR', sans-serif;
@@ -180,7 +181,7 @@
   align-items: center;
 }
 .fix-footer .bottom-bar .explore a {
-  font-size: 1.8rem;
+  font-size: 1.5rem;
   text-decoration: none;
   color: black;
   font-family: 'Noto Sans KR', sans-serif;
@@ -196,7 +197,7 @@
   align-items: center;
 }
 .fix-footer .bottom-bar .groups a {
-  font-size: 1.8rem;
+  font-size: 1.5rem;
   text-decoration: none;
   color: black;
   font-family: 'Noto Sans KR', sans-serif;
@@ -212,7 +213,7 @@
   align-items: center;
 }
 .fix-footer .bottom-bar .search a {
-  font-size: 1.8rem;
+  font-size: 1.5rem;
   text-decoration: none;
   color: black;
   font-family: 'Noto Sans KR', sans-serif;
@@ -236,7 +237,7 @@
   align-items: center;
 }
 .flex-bottom a {
-  font-size: 1.8rem;
+  font-size: 1.5rem;
   text-decoration: none;
   color: black;
   font-family: 'Noto Sans KR', sans-serif;
@@ -461,7 +462,7 @@ html {
   background-color: white;
   text-align: center;
   padding: 3%;
-  font-size: 1.8rem;
+  font-size: 1.5rem;
   text-decoration: none;
   font-family: 'Noto Sans KR', sans-serif;
   font-weight: 600;
@@ -480,7 +481,7 @@ html {
 }
 .calendar-view .calendar tr td {
   padding: 2.5%;
-  font-size: 1.7rem;
+  font-size: 1.4rem;
   font-family: 'Noto Sans KR', sans-serif;
   border-spacing: 3%;
   font-weight: 600px;
@@ -497,7 +498,7 @@ html {
 }
 .calendar-view .notifications h3 {
   color: #439dbb;
-  font-size: 1.7rem;
+  font-size: 1.4rem;
   width: 100%;
   text-align: left;
   font-family: 'Noto Sans KR', sans-serif;
@@ -507,7 +508,7 @@ html {
 }
 .calendar-view .notifications p {
   font-family: 'Noto Sans KR', sans-serif;
-  font-size: 1.7rem;
+  font-size: 1.4rem;
   padding: 3%;
   padding-bottom: 2%;
   font-weight: 600;
@@ -515,7 +516,7 @@ html {
 }
 .calendar-view .notifications span {
   font-family: 'Noto Sans KR', sans-serif;
-  font-size: 1.7rem;
+  font-size: 1.4rem;
   color: #555555;
   padding-left: 3%;
   font-weight: 600;
@@ -533,7 +534,7 @@ html {
 }
 .calendar-view .notifications .tomorrow {
   color: #8d8d8d;
-  font-size: 1.7rem;
+  font-size: 1.4rem;
   width: 100%;
   text-align: left;
   font-family: 'Noto Sans KR', sans-serif;
@@ -549,6 +550,7 @@ html {
 }
 .calendar-view .notifications .thirdalert {
   border-left: 10px solid #715696;
+  border-bottom: 1px solid #aaaaaa;
 }
 .calendar-view .notifications .fourthalert {
   border-left: 10px solid #54c242;
@@ -570,7 +572,7 @@ html {
   align-items: center;
 }
 .calendar-view .bottom-bar .to-do a {
-  font-size: 1.8rem;
+  font-size: 1.5rem;
   text-decoration: none;
   color: black;
   font-family: 'Noto Sans KR', sans-serif;
@@ -586,7 +588,7 @@ html {
   align-items: center;
 }
 .calendar-view .bottom-bar .explore a {
-  font-size: 1.8rem;
+  font-size: 1.5rem;
   text-decoration: none;
   color: black;
   font-family: 'Noto Sans KR', sans-serif;
@@ -602,7 +604,7 @@ html {
   align-items: center;
 }
 .calendar-view .bottom-bar .groups a {
-  font-size: 1.8rem;
+  font-size: 1.5rem;
   text-decoration: none;
   color: black;
   font-family: 'Noto Sans KR', sans-serif;
@@ -618,7 +620,7 @@ html {
   align-items: center;
 }
 .calendar-view .bottom-bar .search a {
-  font-size: 1.8rem;
+  font-size: 1.5rem;
   text-decoration: none;
   color: black;
   font-family: 'Noto Sans KR', sans-serif;
