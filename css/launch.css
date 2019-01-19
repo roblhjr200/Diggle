@@ -1,4 +1,4 @@
-body {
+.launch {
   background-image: url(../img/background@2x.png);
 }
 .logo-title {
@@ -12,6 +12,9 @@ body {
 .logo-title img {
   width: 60%;
   height: 30%;
+}
+.logo-title img .rotate {
+  rotate: 1 -0.5 1 180deg;
 }
 .logo-title h1 {
   font-family: 'Galindo', cursive;
