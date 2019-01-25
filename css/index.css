@@ -374,11 +374,13 @@ table {
   border-collapse: collapse;
   border-spacing: 0;
 }
-* {
-  max-width: 500px;
-}
-html {
-  font-size: 62.5%;
+@media (max-width: 500px) {
+  * {
+    max-width: 500px;
+  }
+  html {
+    font-size: 62.5%;
+  }
 }
 .launch {
   background-image: url(../img/background@2x.png);
