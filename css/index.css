@@ -409,6 +409,8 @@ table {
 @media (max-width: 600px) {
   .calendar-view {
     background-color: white;
+    max-height: 100vh;
+    overflow: auto;
     width: 100%;
   }
   .calendar-view .top-header {
